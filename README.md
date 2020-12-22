@@ -27,7 +27,9 @@ When users use Google's APIs, one quota is used for one API call. When the batch
 
 Or, using jsdelivr cdn
 
+```html
 <script src="https://cdn.jsdelivr.net/gh/tanaikech/BatchRequest_js@master/batchrequest_js.min.js"></script>
+```
 
 # Usage
 
